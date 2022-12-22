@@ -1,0 +1,8 @@
+name=Alarm&Clock
+author=Nikita Smith
+description=An alarm clock for those of us who struggle with staying on time.
+bundleID=com.theratlabs.Alarm&Clock
+version=1.0
+imagePath=images
+pdxversion=11200
+buildtime=724982836
