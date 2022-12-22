@@ -2,6 +2,7 @@
 A simple interval-based alarm clock for the Playdate Console. For an optimal experience, connect your Playdate to an external speaker.
 
 Store page: https://fivedegrees.itch.io/alarm-and-clock-playdate
+
 To compile the src source folder into a runnable .pdx file follow the instructions at https://sdk.play.date/inside-playdate/#_compiling_a_project
 
 Coming Soon:
