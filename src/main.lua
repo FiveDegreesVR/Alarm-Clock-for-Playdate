@@ -1,20 +1,11 @@
 -- TO DO:
--- implement setting / cancelling alarm using A B buttons in alarm menu (done)
--- alarm on/off function (done)
--- make sure checkTime() works (done)
--- add alarm audio (done)
--- snooze function (dependant on alarm audio playing status) (done)
---     * in future add how long to snooze for in menu (no, this is set to interval length and will stay that way.)
--- finalize alarm set menu ui (done)
---     * add interval and interval length to main screen alarm UI (done)
---     * add num overflow (if num at 9 and hit up it should go back to 0) (done)
---     * add blinking to center : in time (use timer?) (postpone to 1.1 release)
--- custom alarm sound
--- code & file refactor
---     * COMMENT YOUR CODE
--- am/pm option for display time (postpone to 1.1 release)
--- save current alarm between program instances as json file (postpone to 1.1 release)
--- add multiple alarm sounds (1.2 release)
+-- 1.1 Release
+	-- Better snooze 
+	-- add blinking to center : in time (use timer?)
+	-- am/pm option for display time 
+	-- save current alarm between program instances (https://sdk.play.date/inside-playdate/#saving-state)
+-- 1.2 Release
+	-- Multiple alarm sounds
 
 -- imports
 import "CoreLibs/object"
